@@ -1,0 +1,31 @@
+{
+	"type": "apotheosis:attribute",
+	"attribute": "attributeslib:fire_damage",
+	"operation": "ADDITION",
+	"values": {
+		"rare": {
+			"min": 0.5,
+			"steps": 1,
+			"step": 0
+		},
+		"epic": {
+			"min": 0.5,
+			"steps": 2,
+			"step": 0.25
+		},
+		"mythic": {
+			"min": 0.75,
+			"steps": 5,
+			"step": 0.25
+		},
+		"ancient": {
+			"min": 1.5,
+			"steps": 6,
+			"step": 0.25
+		}
+	},
+	"types": [
+		"sword",
+		"trident"
+	]
+}
