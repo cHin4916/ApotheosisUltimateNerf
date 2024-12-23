@@ -1,0 +1,31 @@
+{
+	"_comment": "Torch Placer - value is the durability cost.",
+	"type": "apotheosis:enlightened",
+	"values": {
+		"uncommon": {
+			"min": 20,
+			"steps": 4,
+			"step": -1
+		},
+		"rare": {
+			"min": 16,
+			"steps": 4,
+			"step": -1
+		},
+		"epic": {
+			"min": 12,
+			"steps": 4,
+			"step": -1
+		},
+		"mythic": {
+			"min": 10,
+			"steps": 4,
+			"step": -1
+		},
+		"ancient": {
+			"min": 8,
+			"steps": -4,
+			"step": 1
+		}
+	}
+}
